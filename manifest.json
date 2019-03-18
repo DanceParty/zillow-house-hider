@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "Zillow House Hider",
+  "version": "0.1.0",
+  "description": "Hide houses on zillow.",
+
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_title": "Zillow House Hider"
+  },
+
+  "content_scripts": [
+    {
+      "css": ["styles.css"],
+      "js": ["script.js"],
+      "matches": ["https://www.zillow.com/homes/*"]
+    }
+  ],
+
+  "permissions": ["storage"]
+}

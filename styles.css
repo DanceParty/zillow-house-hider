@@ -1,0 +1,6 @@
+.zsg-photo-card-actions {
+  display: flex;
+}
+.zsg-photo-card-actions a {
+  font-size: 32px;
+}

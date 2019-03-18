@@ -26,7 +26,9 @@ function app() {
     });
 
     // add hidden button to visible houses
-    thumbnail.appendChild(createHideButton(houseId, thumbnail));
+    if (thumbnail.children.length === 1) {
+      thumbnail.appendChild(createHideButton(houseId, thumbnail));
+    }
   });
 }
 

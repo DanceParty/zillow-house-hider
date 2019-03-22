@@ -6,10 +6,14 @@
 
 ## Development Status:
 
-* Not in production (updloaded to chrome extension store)
+* Not in production (uploaded to Chrome extension store)
 * Works through development mode
-  * Clone repo, turn on development mode in chrome/extensions, and then drag and drop the project folder there to install
-  
+
+## How to Install:
+* Clone repo
+* Turn development mode **on** in Chrome/extensions
+* Drag and drop project folder into Chrome/extensions
+
 ## How to know if it is working?
 
 * You will see the red "X" appear in the thumbnails for each house next to the "heart" icon.

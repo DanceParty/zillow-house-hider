@@ -1,4 +1,4 @@
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Zillow_Logo.svg/1200px-Zillow_Logo.svg.png" height="200" /> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/155/heavy-plus-sign_2795.png" height="100" /> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/153/cross-mark_274c.png" height="200" /></p>
+<p align="center"><img src="http://zillow.mediaroom.com/download/Zillow_Wordmark_Blue_RGB+lrg.png" height="100" /> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/155/heavy-plus-sign_2795.png" height="30" /> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/microsoft/153/cross-mark_274c.png" height="100" /></p>
 
 <h1 align="center">Zillow House Hider</h1>
 <p align="center">A Chrome Extension that will add the ability to hide houses from a Zillow search</p>
